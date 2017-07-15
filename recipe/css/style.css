@@ -1,0 +1,136 @@
+body{
+	background-color:#555;
+	width:100%;
+	margin:0px;
+	background-image:url(../images/CarbonFiber.jpg);
+
+
+	line-height:1.166;
+
+}
+a{
+	text-decoration:none;
+}
+a:link{
+	text-decoration:none;
+}
+a:visited{
+	text-decoration:none;
+}
+a:hover{
+	background-color:#223850;
+	color:white;
+
+}
+h1{
+ font-family: Verdana,Arial,sans-serif;
+ font-size:120%;
+ color:#444;
+ margin:0px;
+ padding:0px;
+}
+ h2{
+ 	font-family: Verdana,Arial,sans-serif;
+ 	font-size:120%;
+ color:#444;
+ margin:0px;
+ padding:0px;
+ }
+ h3{
+ font-family: Verdana,Arial,sans-serif;
+ 	font-size:110%;
+ color:#444;
+ margin:0px;
+ padding:0px;
+}
+h4{
+	font-family: Verdana,Arial,sans-serif;
+ 	font-size:105%;
+ color:#444;
+ margin:0px;
+ padding:0px;
+}
+#wrapper{
+	width:80%;
+	background-color:white;
+	height:auto;
+	margin:0px auto;
+	border:1px solid black;
+	border-radius: 5px 4px;
+	box-shadow:3px 4px 4px #223850;
+}
+#header{
+	width:100%;
+	background-color:#fff;
+	height:80px;
+	background-image:url(../images/banner.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;
+	text-align:center;
+	border-bottom:1px solid #444;
+}
+#nav{
+	width:15%;
+	float:left;
+	vertical-align:top;
+	padding-left:5px;
+	border-left:1px solid #444;
+	border-right:1px solid #444;
+	min-height:720px; 
+
+
+}
+#main{
+	width:58%;
+	float:left;
+	vertical-align:top;
+	padding:0px 0px 0px 5px;
+	border-top:1px solid 4444;
+	min-height:720px;
+}
+#news{
+	width:25%;
+	vertical-align:top;
+	padding-left:5px;
+	border-left:1px solid #444;
+	border-right:1px solid #444;
+	float:right;
+	min-height:720px;
+
+}
+#sidenav{
+	width:100%; 
+	padding:0px 3px;
+	border-collapse:collapse;
+}
+#footer{
+	clear:both;
+	padding:7px;
+	text-align:center;
+	border-top:1px solid #444;
+	border-bottom:1px solid #444;
+	width:100%;
+}
+.error{
+	color:#cc0000;
+	text-align:center;
+	font-style:italic;
+
+}
+
+.recipe-form{
+	width:75%;
+	margin:4px;
+}
+.col-a{
+	padding-left:10px;
+	width:20%;
+	vertical-align:top;
+}
+.col-b{
+	width:20%;
+	float:right;
+
+	vertical-align: top;
+
+}
